@@ -24,4 +24,4 @@ Licensing
 =========
 .. State license and link to text version.
 See
-`LICENSE <httpsL//github.com/CXINFINITE/Algorithms-Python/blob/main/LICENSE>`_.
+`LICENSE <https://github.com/CXINFINITE/Algorithms-Python/blob/main/LICENSE>`_.
